@@ -1,0 +1,27 @@
+{
+  "name": "autologout",
+  "version": "1.0.0",
+  "description": "After a certain time, it is possible to redirect the user to a logout route or any other",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trim07/Auto-Logout.git"
+  },
+  "keywords": [
+    "AutoLogout"
+  ],
+  "author": "Trim07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Trim07/Auto-Logout/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/Trim07/Auto-Logout#readme",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "sweetalert2": "^11.7.5"
+  }
+}
