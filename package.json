@@ -22,6 +22,6 @@
   "homepage": "https://github.com/Trim07/Auto-Logout#readme",
   "dependencies": {
     "moment": "^2.29.4",
-    "sweetalert2": "^11.7.5"
+    "sweetalert2": "^11.22.4"
   }
 }
